@@ -1,0 +1,8 @@
+C:\Users\LudwigNassen\Desktop\VoorbeeldConsole\VoorbeeldConsole\bin\Debug\VoorbeeldConsole.exe.config
+C:\Users\LudwigNassen\Desktop\VoorbeeldConsole\VoorbeeldConsole\bin\Debug\VoorbeeldConsole.exe
+C:\Users\LudwigNassen\Desktop\VoorbeeldConsole\VoorbeeldConsole\bin\Debug\VoorbeeldConsole.pdb
+C:\Users\LudwigNassen\Desktop\VoorbeeldConsole\VoorbeeldConsole\obj\Debug\VoorbeeldConsole.csproj.AssemblyReference.cache
+C:\Users\LudwigNassen\Desktop\VoorbeeldConsole\VoorbeeldConsole\obj\Debug\VoorbeeldConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\LudwigNassen\Desktop\VoorbeeldConsole\VoorbeeldConsole\obj\Debug\VoorbeeldConsole.csproj.CoreCompileInputs.cache
+C:\Users\LudwigNassen\Desktop\VoorbeeldConsole\VoorbeeldConsole\obj\Debug\VoorbeeldConsole.exe
+C:\Users\LudwigNassen\Desktop\VoorbeeldConsole\VoorbeeldConsole\obj\Debug\VoorbeeldConsole.pdb
